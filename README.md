@@ -10,7 +10,11 @@ coverY: 0
 
 This repository is tailored to meet the needs of professionals like you, specializing in critical infrastructure, telecommunications, and corporate networks.
 
-Here, you'll find a comprehensive collection of tools, scripts, and resources specifically designed to aid you in conducting in-depth DNS penetration testing and vulnerability assessment. DNS plays a pivotal role in network communication, and its security is paramount in safeguarding critical infrastructure and telecommunications systems.
+<figure><img src=".gitbook/assets/DNS_Penetration_Testing.jpg" alt=""><figcaption></figcaption></figure>
+
+Here, you'll find a comprehensive collection of tools, scripts, and resources specifically designed to aid you in conducting in-depth DNS penetration testing and vulnerability assessment.&#x20;
+
+DNS plays a pivotal role in network communication, and its security is paramount in safeguarding critical infrastructure and telecommunications systems.
 
 ### Key Features
 
@@ -26,3 +30,7 @@ Your dedication to optimizing and securing signaling and critical networks is in
 Let's work together to ensure the resilience and integrity of DNS systems across critical infrastructure and corporate networks.&#x20;
 
 Your expertise is greatly appreciated here!
+
+{% embed url="https://discord.gg/guNYkTQXCV" %}
+
+{% embed url="https://cli-ck.me/htb-pro-labs" %}
