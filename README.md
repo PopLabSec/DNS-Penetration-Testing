@@ -1,7 +1,8 @@
 ---
 description: >-
-  Welcome to the "DNS Penetration Testing" repository, a resource dedicated to
-  experts in the field of cybersecurity.
+  Welcome to the DNS Penetration Testing Repository. This resource is dedicated
+  to professionals in the field of cyber security, specifically those focused on
+  critical infrastructure, telecommunications
 cover: .gitbook/assets/DNS Penetration Testing.png
 coverY: 0
 ---
