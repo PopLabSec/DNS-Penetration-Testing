@@ -26,7 +26,3 @@
 
 * [Zone Transfer](dns-attacks/zone-transfer.md)
 * [Amplification Attacks](dns-attacks/amplification-attacks.md)
-
-## DNS Exploits
-
-* [Page 3](dns-exploits/page-3.md)
